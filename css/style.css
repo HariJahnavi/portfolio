@@ -1317,9 +1317,17 @@ div#portfolioModal10 {
 
 /*-- contact --*/
 
-.mail_us {
+/*.mail_us {
   margin-bottom: 50px;
   margin-top: 50px;
+}*/
+
+.mail_us {
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.1);
+  padding: 40px 30px;
+  margin-top: 30px;
 }
 
 .contact-grid1-left {
