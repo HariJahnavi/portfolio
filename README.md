@@ -4,6 +4,8 @@ Welcome to my personal portfolio website! This site showcases who I am as a prof
 
 I’ve also included a comprehensive "Skills" section that outlines my technical expertise, along with a "Contact" section for anyone who would like to reach out. This portfolio was designed to be simple, responsive, and easy to navigate — whether you're a recruiter, colleague, or fellow tech enthusiast. Feel free to explore and get in touch!
 
+Portfolio Link: https://harijahnavi.github.io/portfolio/
+
 Thanks,
 Hari Jahnavi Kada.
 
