@@ -1340,6 +1340,16 @@ div#portfolioModal10 {
   width: 90%;
 }
 
+
+.contact-grid1-left1 img {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-bottom: 12px;
+}
+
+
 .contact-grid1-left {
   width: 100%;
 }
